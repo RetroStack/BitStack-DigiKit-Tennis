@@ -1,6 +1,6 @@
 # DigiKit Tennis Replica
 
-While watching my regular YouTube channels, I saw a digital electronics kit from the 70s, called Tennis from the company DigiKit, shown on the Tech Time Traveller. This is a neat little board is a fun game that looks useful for beginners to learn digital electronics. The schematics provided, apparently, had a lot of bugs and was very incorrect as it turns out.
+While watching my regular YouTube channels, I saw a digital electronics kit from the 70s, called Tennis from the company DigiKit, [shown on the Tech Time Traveller](https://www.youtube.com/watch?v=UqEwdttDtZE&t=2260s). This is a neat little board is a fun game that looks useful for beginners to learn digital electronics. The schematics provided, apparently, had a lot of bugs and was very incorrect as it turns out.
 I spent some time to reverse engineer it from screenshots of the YouTube video, and the result is this board.
 
 ![Photo](/Latest/DigiKit_Tennis_Photo.png)
